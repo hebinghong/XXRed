@@ -4,5 +4,6 @@ namespace ClassLibraryTest
 {
     public class Test
     {
+
     }
 }
